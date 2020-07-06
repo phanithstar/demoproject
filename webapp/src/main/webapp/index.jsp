@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Triple Technology !!! </h1>
-<h2> Jenkins from Zero to Master! </h2>
-<h3> Testing V2 </h3>
+<h1> Simple Java Web App </h1>
+<h2> Deploy using Jenkins pipeline </h2>
+<h3> Testing V3 </h3>
